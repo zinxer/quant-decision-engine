@@ -1,0 +1,62 @@
+{
+  "model": "cloudflare/clef-flash",
+  "recorded_at": "2026-10-05T15:20:00.915781Z",
+  "entries": {
+    "21087b4c12168e81": {
+      "headline": "Coinbase to delist Solana? Company calls the report false",
+      "direction": "none",
+      "p_direction": 0.8652,
+      "confirmed": 0.0202,
+      "latency_ns": 208264416
+    },
+    "29fe209d8bb5db38": {
+      "headline": "SEC approves spot Ethereum ETF, trading begins Thursday",
+      "direction": "bullish",
+      "p_direction": 0.9694,
+      "confirmed": 0.9225,
+      "latency_ns": 1399925708
+    },
+    "5066b53395d70ff7": {
+      "headline": "BNB Chain hack report was a false alarm, team confirms no funds lost",
+      "direction": "bullish",
+      "p_direction": 0.8311,
+      "confirmed": 0.2907,
+      "latency_ns": 400382834
+    },
+    "54b27525fa8226c7": {
+      "headline": "Binance denies rumors of listing $XYZ token",
+      "direction": "none",
+      "p_direction": 0.9488,
+      "confirmed": 0.2875,
+      "latency_ns": 335947291
+    },
+    "b6c870d2ef8b1e53": {
+      "headline": "Anonymous account asks: will Bitcoin be banned next week?",
+      "direction": "none",
+      "p_direction": 0.9367,
+      "confirmed": 0.0219,
+      "latency_ns": 324161209
+    },
+    "c6f1d05eabe3cd86": {
+      "headline": "Solana bridge exploit confirmed: $40M drained, validators halt network",
+      "direction": "bearish",
+      "p_direction": 0.9672,
+      "confirmed": 0.8748,
+      "latency_ns": 500428875
+    },
+    "c943bb0b5bb0b257": {
+      "headline": "Bitcoin ETF approval was rejected last year, analysts recall",
+      "direction": "none",
+      "p_direction": 0.6339,
+      "confirmed": 0.8502,
+      "latency_ns": 435071542
+    },
+    "e6a19bf1d0677815": {
+      "headline": "Unconfirmed: Dogecoin could be listed by major retailer, insiders say",
+      "direction": "none",
+      "p_direction": 0.613,
+      "confirmed": 0.0255,
+      "latency_ns": 907129167
+    }
+  }
+}

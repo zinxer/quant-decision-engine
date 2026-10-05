@@ -1,0 +1,10 @@
+[
+  {"headline": "SEC approves spot Ethereum ETF, trading begins Thursday", "source": "newswire", "expected": "bullish"},
+  {"headline": "Binance denies rumors of listing $XYZ token", "source": "newswire", "expected": "none"},
+  {"headline": "Anonymous account asks: will Bitcoin be banned next week?", "source": "social", "expected": "none"},
+  {"headline": "Solana bridge exploit confirmed: $40M drained, validators halt network", "source": "newswire", "expected": "bearish"},
+  {"headline": "Unconfirmed: Dogecoin could be listed by major retailer, insiders say", "source": "social", "expected": "none"},
+  {"headline": "Bitcoin ETF approval was rejected last year, analysts recall", "source": "blog", "expected": "none"},
+  {"headline": "BNB Chain hack report was a false alarm, team confirms no funds lost", "source": "newswire", "expected": "none"},
+  {"headline": "Coinbase to delist Solana? Company calls the report false", "source": "newswire", "expected": "none"}
+]

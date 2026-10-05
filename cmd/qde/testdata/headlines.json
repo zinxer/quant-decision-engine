@@ -1,0 +1,4 @@
+[
+  {"headline": "SEC approves spot Ethereum ETF", "source": "test", "expected": "bullish"},
+  {"headline": "Binance denies rumors of listing $XYZ token", "source": "test", "expected": "none"}
+]

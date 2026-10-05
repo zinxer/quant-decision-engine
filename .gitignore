@@ -1,0 +1,5 @@
+.env
+/qde
+coverage.out
+# local media workspace (generation scripts and LinkedIn exports stay out of the repo)
+/media-kit/
