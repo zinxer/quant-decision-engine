@@ -4,7 +4,7 @@
 [![Go](https://img.shields.io/github/go-mod/go-version/zinxer/quant-decision-engine)](go.mod)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-**Regex reads words. Decision models read meaning.** A Go proof of concept that turns crypto news headlines
+**Regex reads words. Decision models read meaning.** A Go reference implementation that turns crypto news headlines
 into gated trade decisions using [Cloudflare Clef-flash](https://blog.cloudflare.com/clef-decision-models/), an
 open-weight *decision model* that returns typed answers with probabilities, and puts it side by side with the
 keyword logic it replaces.
@@ -14,8 +14,8 @@ keyword logic it replaces.
 <sub>Replay of a real Clef-flash run via OpenRouter. Latency shown is the hosted path; see [Latency](#latency-hosted-vs-self-hosted).</sub>
 
 > [!WARNING]
-> Proof of concept, not financial advice. The default is **dry-run**. `--execute` sends orders only to
-> Binance **Spot Demo Mode** (virtual funds). There is no production trading endpoint in the code.
+> Not financial advice. Execution is deliberately constrained: **dry-run** by default, and `--execute` sends
+> orders only to Binance **Spot Demo Mode** (virtual funds). There is no production trading endpoint in the code.
 
 ## The problem
 

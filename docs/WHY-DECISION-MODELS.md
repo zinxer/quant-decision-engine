@@ -1,6 +1,6 @@
 # Why a decision model is a step up from regex
 
-> Proof of concept. Not financial advice. The evidence here supports a claim about **interpretation**,
+> Not financial advice. The evidence here supports a claim about **interpretation**,
 > not about trading edge. Read the [limits](#7-where-it-is-not-better-and-what-can-go-wrong) before quoting numbers.
 
 ## 1. Short version

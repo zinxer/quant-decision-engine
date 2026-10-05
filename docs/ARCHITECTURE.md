@@ -1,6 +1,6 @@
 # Architecture, rationale and results
 
-> Proof of concept. Not financial advice. Orders go only to Binance **Spot Demo Mode** (virtual funds), and only with `--execute`.
+> Not financial advice. Orders go only to Binance **Spot Demo Mode** (virtual funds), and only with `--execute`.
 
 ## 1. Why this exists
 

@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for looking. This is a proof of concept, so the most useful contributions are **evidence**.
+Thanks for looking. The most useful contributions are **evidence**: measurements and hard cases that test the claims in the README.
 
 ## Most wanted
 
